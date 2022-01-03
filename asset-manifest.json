@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-ucsbtsa/static/css/main.562bbf00.css",
-    "main.js": "/test-ucsbtsa/static/js/main.d621eda9.js",
+    "main.js": "/test-ucsbtsa/static/js/main.7056d5f5.js",
     "static/js/787.37a186aa.chunk.js": "/test-ucsbtsa/static/js/787.37a186aa.chunk.js",
     "static/media/about_us-2.jpg": "/test-ucsbtsa/static/media/about_us-2.2caeb0badde7b3a944ce.jpg",
     "static/media/ig.png": "/test-ucsbtsa/static/media/ig.263cdf8b69b5f5cfc6b7.png",
@@ -20,11 +20,11 @@
     "static/media/LucidaGrande.woff2": "/test-ucsbtsa/static/media/LucidaGrande.edd6199c5a6258a70a23.woff2",
     "index.html": "/test-ucsbtsa/index.html",
     "main.562bbf00.css.map": "/test-ucsbtsa/static/css/main.562bbf00.css.map",
-    "main.d621eda9.js.map": "/test-ucsbtsa/static/js/main.d621eda9.js.map",
+    "main.7056d5f5.js.map": "/test-ucsbtsa/static/js/main.7056d5f5.js.map",
     "787.37a186aa.chunk.js.map": "/test-ucsbtsa/static/js/787.37a186aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.562bbf00.css",
-    "static/js/main.d621eda9.js"
+    "static/js/main.7056d5f5.js"
   ]
 }
