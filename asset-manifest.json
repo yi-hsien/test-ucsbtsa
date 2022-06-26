@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-ucsbtsa/static/css/main.fc501872.css",
-    "main.js": "/test-ucsbtsa/static/js/main.35152c0b.js",
+    "main.js": "/test-ucsbtsa/static/js/main.53485ea0.js",
     "static/js/787.37a186aa.chunk.js": "/test-ucsbtsa/static/js/787.37a186aa.chunk.js",
     "static/media/2021fall_bbq-mute.mp4": "/test-ucsbtsa/static/media/2021fall_bbq-mute.4f658713d25f6569cc30.mp4",
     "static/media/about_us-2.jpg": "/test-ucsbtsa/static/media/about_us-2.2caeb0badde7b3a944ce.jpg",
@@ -21,11 +21,11 @@
     "static/media/LucidaGrande.woff2": "/test-ucsbtsa/static/media/LucidaGrande.edd6199c5a6258a70a23.woff2",
     "index.html": "/test-ucsbtsa/index.html",
     "main.fc501872.css.map": "/test-ucsbtsa/static/css/main.fc501872.css.map",
-    "main.35152c0b.js.map": "/test-ucsbtsa/static/js/main.35152c0b.js.map",
+    "main.53485ea0.js.map": "/test-ucsbtsa/static/js/main.53485ea0.js.map",
     "787.37a186aa.chunk.js.map": "/test-ucsbtsa/static/js/787.37a186aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc501872.css",
-    "static/js/main.35152c0b.js"
+    "static/js/main.53485ea0.js"
   ]
 }
