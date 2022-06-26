@@ -10,7 +10,7 @@
 @import './css/Slider.css';
 
 :root{
-  --hue: 330;
+  --hue: 240;
   --nomralLight: 30%;
   --dimmerLight: 20%;
 }

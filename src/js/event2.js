@@ -1,14 +1,18 @@
 export default [
-    {
-      src: "https://lh3.google.com/u/2/d/1xM4fBxP4mYYnmxc7hC14IOyjgX_e8QU4=w1920-h936-iv1",
-      text: "",
-    },
-    {
-      src: "https://lh3.google.com/u/2/d/1zzh0lJBHSi0p5aBBbVUwuy4iiDs3gYEd=w875-h936-iv1",
-      text: "Consectetur adipisicing elit cillum dolore eu fugiat nulla",
-    },
-    {
-      src: "https://lh3.google.com/u/2/d/1xM4fBxP4mYYnmxc7hC14IOyjgX_e8QU4=w1920-h936-iv1",
-      text: "Asperiores ex animi explicabo cillum dolore eu fugiat nulla",
-    },
+  {
+    src: "https://drive.google.com/uc?export=view&id=14tH4nz-_QWgxQoaFNwgV0YHpQDu8YRmx",
+    // src: "/public/logo.png",
+    text: "2022/2/4",
+    title: "TSA CNY Event",
+  },
+  {
+    src: "https://drive.google.com/uc?export=view&id=1l27WzomKzaWm-XqIhowZ9i9cN6QOMEep",
+    text: " ",
+    title: "",
+  },
+  {
+    src: "https://drive.google.com/uc?export=view&id=1lwesXvaQc-gORBUg3-foWKE-UiNcYFTB",
+    text: "",
+    title: "",
+  },
   ]

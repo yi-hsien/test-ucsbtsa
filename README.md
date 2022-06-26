@@ -71,4 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### 
+https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github
 npm run deploy to deploy gh-pages
