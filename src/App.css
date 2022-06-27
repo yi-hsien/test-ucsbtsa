@@ -8,6 +8,7 @@
 @import './css/Officers.css';
 @import './css/Contact.css';
 @import './css/Slider.css';
+@import './css/Upcoming.css';
 
 :root{
   --hue: 240;
@@ -35,3 +36,5 @@ body, html {
   min-height: 100%;
   overflow-x: hidden;
 }
+
+
