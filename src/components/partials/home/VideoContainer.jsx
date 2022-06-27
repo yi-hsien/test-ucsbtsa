@@ -6,7 +6,7 @@ export default function VideoContainer () {
         <div className="video-container">
             <div className="video-content">
                 <div className="inner">
-                    <h1>WELCOME to <em>UCSB TSA</em></h1>
+                    <h1>Welcome to <em>UCSB TSA</em></h1>
                     <p>UCSB Taiwanese Student Association</p>
                 </div>
             </div>
