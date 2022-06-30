@@ -11,12 +11,12 @@
 @import './css/Upcoming.css';
 
 :root{
-  --hue: 240;
+  --hue: 206;
   --nomralLight: 30%;
   --dimmerLight: 20%;
 }
 body {
-  background-color: 	hsl( var(--hue), 10%, var(--nomralLight)) ;
+  background-color: 	hsl( var(--hue), 50%, var(--nomralLight)) ;
   font-family: 'Lucida Grande'/*, sans-serif*/;
   margin: 0;
 }

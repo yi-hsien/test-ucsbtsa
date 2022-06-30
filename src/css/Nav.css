@@ -11,7 +11,8 @@ nav .logo img{
 }
 
 nav {
-  background: rgba(131, 101, 101, 0.4);
+  /* background: rgba(179, 148, 148, 0.4); */
+  background-color: 	hsla( var(--hue), 20%, var(--nomralLight), 0.4) ;
   height: 80px;
   position: fixed;
   width: 100%;
@@ -40,7 +41,7 @@ nav .menu-button{
   border: none;
   color: #ffffff;
   text-align: center;
-  font-size: 14px;
+  font-size: 18px;
   background-color: Transparent;
   background-repeat:no-repeat;
   cursor:pointer;
@@ -92,7 +93,8 @@ nav ul{
     border: none;
     color: #ffffff;
     text-align: center;
-    font-size: 16px;
+    font-size: 24px;
+    /* text-decoration: underline; */
     background-color: Transparent;
     background-repeat:no-repeat;
     cursor:pointer;
